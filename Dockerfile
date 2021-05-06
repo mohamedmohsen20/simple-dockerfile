@@ -2,7 +2,7 @@
 FROM ubuntu:14.04
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
-MAINTAINER mohamedmohsen20136412@gmail.com
+MAINTAINER mohamedmohsen20136412@gmail.com.
 
 #RUN - Runs a command in the container
 RUN echo "Hello world" > /tmp/hello_world.txt
